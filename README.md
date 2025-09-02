@@ -1,6 +1,5 @@
 # Git-CheatSheet
-| Centered Text |
-|:-------------:|
+
 ## Configure Git
 
 * git config --global user.name "Your Name"
