@@ -1,5 +1,6 @@
 # Git-CheatSheet
-<div style="text-align: center;">Centered Text</div>
+| Centered Text |
+|:-------------:|
 ## Configure Git
 
 * git config --global user.name "Your Name"
