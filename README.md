@@ -1,4 +1,5 @@
 # Git-CheatSheet
+<div style="text-align: center;">Content</div>
 ## Configure Git
 
 * git config --global user.name "Your Name"
